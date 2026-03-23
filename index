@@ -1,1 +1,73 @@
+# 🛡️ Proyecto: Seguridad Laboral y Prevención en el Ámbito Informático
+> "La tecnología debe ser una herramienta de progreso, no una fuente de desgaste. Tu salud es el hardware más importante que posees."
 
+Bienvenidos al repositorio oficial del proyecto **seguridad-trabajo-informática**. Este espacio ha sido diseñado para analizar, concienciar y prevenir los riesgos específicos asociados al entorno laboral de los profesionales IT, desde la ergonomía física hasta el bienestar mental.
+
+---
+
+## 👥 Equipo de Trabajo (Colaborativo)
+
+Este proyecto ha sido desarrollado siguiendo una estructura de roles especializados para cubrir todos los ángulos de la prevención de riesgos laborales (PRL):
+
+| Colaborador | Especialidad / Rol en el Proyecto |
+| :--- | :--- | 
+| **[Sergio Martín]** | Ergonomía Física y Trastornos Musculoesqueléticos | 
+| **[Julio Gutierrez]** | Riesgos Psicosociales y Salud Mental (Burnout/Tecnoestrés) |
+| **[Juan Jose Fernandez]** | Higiene Ambiental y Seguridad en el Entorno Físico |
+
+---
+
+## 🎯 Objetivos del Proyecto
+
+- [x] **Identificar** los riesgos ergonómicos derivados del uso prolongado de PVD (Pantallas de Visualización de Datos).
+- [x] **Analizar** el impacto del tenoestrés y la fatiga mental en el sector tecnológico.
+- [x] **Establecer** pautas preventivas para un entorno de trabajo físico seguro (iluminación, cableado, climatización).
+- [x] **Divulgar** ejercicios de "pausas activas" y buenas prácticas para profesionales de la informática.
+
+---
+
+## 📑 Índice de Contenidos
+
+Explora los módulos de nuestra investigación para profundizar en cada área:
+
+1. 🪑 **[Ergonomía: El puesto de trabajo ideal](ergonomia.md)**
+   *Ajustes de silla, monitor y periféricos para evitar lesiones.*
+2. 🧠 **[Salud Mental en IT: Burnout y Tecnoestrés](salud-mental.md)**
+   *Cómo gestionar la carga cognitiva y la desconexión digital.*
+3. 💡 **[Higiene Ambiental y Seguridad Física](entorno.md)**
+   *Iluminación, ruido, seguridad eléctrica y prevención de incendios en CPDs.*
+4. 🏃 **[Plan de Prevención y Pausas Activas](prevencion.md)**
+   *Guía práctica de ejercicios y hábitos saludables durante la jornada.*
+
+---
+
+## 📸 Prevención Visual
+
+![Ergonomía en el trabajo](https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+*Figura 1: Un espacio de trabajo correctamente configurado reduce el riesgo de fatiga crónica.*
+
+---
+
+## 📚 Referencias y Fuentes
+
+Para garantizar el rigor profesional, hemos basado nuestra investigación en:
+* [Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)](https://www.insst.es/)
+* Normativa **ISO 9241** (Ergonomía de la interacción persona-sistema).
+* Guías de salud laboral de la **OIT** para el teletrabajo.
+
+---
+
+<details>
+  <summary><b>ℹ️ Metodología y Herramientas (Clic para expandir)</b></summary>
+  <br>
+  Este proyecto se gestiona bajo estándares profesionales de documentación:
+  <ul>
+    <li><b>GitHub Pages:</b> Para la visualización del proyecto como sitio web.</li>
+    <li><b>Markdown (GFM):</b> Para una estructuración clara y técnica.</li>
+    <li><b>Investigación Activa:</b> Síntesis de manuales de prevención de riesgos reales.</li>
+  </ul>
+</details>
+
+<br>
+
+> **Nota del equipo:** Este trabajo es el resultado de una investigación colaborativa orientada a mejorar la calidad de vida de quienes trabajamos frente a una pantalla. No olvides revisar la sección de [Pausas Activas](prevencion.md).
