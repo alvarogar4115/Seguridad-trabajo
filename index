@@ -11,40 +11,35 @@ Este proyecto ha sido desarrollado siguiendo una estructura de roles especializa
 
 | Colaborador | Especialidad / Rol en el Proyecto |
 | :--- | :--- | 
-| **[Sergio Martín]** | Ergonomía Física y Trastornos Musculoesqueléticos | 
-| **[Julio Gutierrez]** | Riesgos Psicosociales y Salud Mental (Burnout/Tecnoestrés) |
-| **[Juan Jose Fernandez]** | Higiene Ambiental y Seguridad en el Entorno Físico |
+| **Sergio Martin** | Indice y Estilo | 
+| **Alvaro Garcia** | Riesgos Laborales en Informatica |
+| **Hugo da silva** | Plan de Prevencion de Riesgos |
 
 ---
 
 ## 🎯 Objetivos del Proyecto
 
-- [x] **Identificar** los riesgos ergonómicos derivados del uso prolongado de PVD (Pantallas de Visualización de Datos).
-- [x] **Analizar** el impacto del tenoestrés y la fatiga mental en el sector tecnológico.
-- [x] **Establecer** pautas preventivas para un entorno de trabajo físico seguro (iluminación, cableado, climatización).
-- [x] **Divulgar** ejercicios de "pausas activas" y buenas prácticas para profesionales de la informática.
+- [x] **Identificar** los principales riesgos laborales (físicos y psicosociales) en el sector informático.
+- [x] **Analizar** el impacto del uso prolongado de PVD (Pantallas de Visualización de Datos) en la salud.
+- [x] **Desarrollar** estrategias de prevención efectivas para entornos de oficina y teletrabajo.
+- [x] **Promover** hábitos saludables y el uso correcto de equipos para evitar enfermedades profesionales.
 
 ---
 
 ## 📑 Índice de Contenidos
 
-Explora los módulos de nuestra investigación para profundizar en cada área:
+Nuestra investigación se divide en dos grandes bloques fundamentales:
 
-1. 🪑 **[Ergonomía: El puesto de trabajo ideal](ergonomia.md)**
-   *Ajustes de silla, monitor y periféricos para evitar lesiones.*
-2. 🧠 **[Salud Mental en IT: Burnout y Tecnoestrés](salud-mental.md)**
-   *Cómo gestionar la carga cognitiva y la desconexión digital.*
-3. 💡 **[Higiene Ambiental y Seguridad Física](entorno.md)**
-   *Iluminación, ruido, seguridad eléctrica y prevención de incendios en CPDs.*
-4. 🏃 **[Plan de Prevención y Pausas Activas](prevencion.md)**
-   *Guía práctica de ejercicios y hábitos saludables durante la jornada.*
+1. ⚠️ **[Riesgos Laborales en Informática](riesgos.md)** *Análisis detallado de fatiga visual, trastornos musculares y riesgos psicosociales (estrés/burnout).*
+
+2. 🛡️ **[Plan de Prevención de Riesgos](prevencion.md)** *Medidas preventivas, configuración ergonómica del puesto y guía de pausas activas.*
 
 ---
 
 ## 📸 Prevención Visual
 
 ![Ergonomía en el trabajo](https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
-*Figura 1: Un espacio de trabajo correctamente configurado reduce el riesgo de fatiga crónica.*
+*Figura 1: Un espacio de trabajo correctamente configurado es la base de la prevención.*
 
 ---
 
@@ -53,7 +48,7 @@ Explora los módulos de nuestra investigación para profundizar en cada área:
 Para garantizar el rigor profesional, hemos basado nuestra investigación en:
 * [Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)](https://www.insst.es/)
 * Normativa **ISO 9241** (Ergonomía de la interacción persona-sistema).
-* Guías de salud laboral de la **OIT** para el teletrabajo.
+* Directrices de salud laboral de la **Unión Europea** para el sector tecnológico.
 
 ---
 
@@ -63,11 +58,11 @@ Para garantizar el rigor profesional, hemos basado nuestra investigación en:
   Este proyecto se gestiona bajo estándares profesionales de documentación:
   <ul>
     <li><b>GitHub Pages:</b> Para la visualización del proyecto como sitio web.</li>
-    <li><b>Markdown (GFM):</b> Para una estructuración clara y técnica.</li>
-    <li><b>Investigación Activa:</b> Síntesis de manuales de prevención de riesgos reales.</li>
+    <li><b>Markdown (GFM):</b> Para una estructuración clara y técnica de la información.</li>
+    <li><b>Investigación Activa:</b> Síntesis de manuales de prevención de riesgos reales, evitando el simple copia y pega.</li>
   </ul>
 </details>
 
 <br>
 
-> **Nota del equipo:** Este trabajo es el resultado de una investigación colaborativa orientada a mejorar la calidad de vida de quienes trabajamos frente a una pantalla. No olvides revisar la sección de [Pausas Activas](prevencion.md).
+> **Nota del equipo:** Este trabajo es el resultado de una investigación colaborativa orientada a mejorar la calidad de vida de quienes trabajamos frente a una pantalla. La prevención es la mejor herramienta del informático.
