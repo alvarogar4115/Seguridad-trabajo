@@ -1,28 +1,26 @@
 # Configuración del Proyecto: Seguridad en el Trabajo Informático
-theme: jekyll-theme-cayman
 title: Seguridad y Prevención IT
 description: Guía profesional sobre riesgos laborales, ergonomía y bienestar en el sector tecnológico.
-show_downloads: true
 
-# Configuración de Autores (Opcional, útil para plugins de Jekyll)
+# URL de tu repositorio (MUY IMPORTANTE para evitar el 404)
+baseurl: "/Seguridad-trabajo" 
+url: "https://alvarogar4115.github.io"
+
+# Autores del proyecto
 authors:
   - Sergio Martin
   - Alvaro Garcia
   - Hugo da silva
 
-# Característica Markdown avanzada: Uso de kramdown para atributos de CSS
-# Esto permite añadir clases personalizadas a elementos Markdown como {: .mi-clase}
+# Configuración del procesador de texto
 kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
 
-# Excluir archivos innecesarios del despliegue
+# Excluir archivos innecesarios
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor/
