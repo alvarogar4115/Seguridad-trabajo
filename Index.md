@@ -15,10 +15,10 @@ Bienvenidos al repositorio oficial del proyecto **seguridad-trabajo-informática
 Este proyecto ha sido desarrollado siguiendo una estructura de roles especializados para cubrir todos los ángulos de la prevención de riesgos laborales (PRL):
 
 | Colaborador | Especialidad / Rol en el Proyecto |
-| :--- | :--- | 
-| **Sergio Martin** | Indice y Estilo | 
-| **Alvaro Garcia** | Riesgos Laborales en Informatica |
-| **Hugo da silva** | Plan de Prevencion de Riesgos |
+| :--- | :--- |
+| **Sergio Martin** | Indice, Estilo y Layout |
+| **Alvaro Garcia** | Riesgos Laborales en Informática |
+| **Hugo da silva** | Plan de Prevención de Riesgos |
 
 ---
 
@@ -35,15 +35,15 @@ Este proyecto ha sido desarrollado siguiendo una estructura de roles especializa
 
 Nuestra investigación se divide en dos grandes bloques fundamentales:
 
-1. ⚠️ **[Riesgos Laborales en Informática](riesgos.md)** *Análisis detallado de fatiga visual, trastornos musculares y riesgos psicosociales (estrés/burnout).*
+1. ⚠️ **[Riesgos Laborales en Informática](./riesgos.html)** *Análisis detallado de fatiga visual, trastornos musculares y riesgos psicosociales.*
 
-2. 🛡️ **[Plan de Prevención de Riesgos](prevencion.md)** *Medidas preventivas, configuración ergonómica del puesto y guía de pausas activas.*
+2. 🛡️ **[Plan de Prevención de Riesgos](./prevencion.html)** *Medidas preventivas, configuración ergonómica del puesto y guía de pausas activas.*
 
 ---
 
 ## 📸 Prevención Visual
 
-![Ergonomía en el trabajo](https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+![Ergonomía en el trabajo](https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)  
 *Figura 1: Un espacio de trabajo correctamente configurado es la base de la prevención.*
 
 ---
@@ -58,14 +58,14 @@ Para garantizar el rigor profesional, hemos basado nuestra investigación en:
 ---
 
 <details>
-  <summary><b>ℹ️ Metodología y Herramientas (Clic para expandir)</b></summary>
-  <br>
-  Este proyecto se gestiona bajo estándares profesionales de documentación:
-  <ul>
-    <li><b>GitHub Pages:</b> Para la visualización del proyecto como sitio web.</li>
-    <li><b>Markdown (GFM):</b> Para una estructuración clara y técnica de la información.</li>
-    <li><b>Investigación Activa:</b> Síntesis de manuales de prevención de riesgos reales, evitando el simple copia y pega.</li>
-  </ul>
+<summary><b>ℹ️ Metodología y Herramientas (Clic para expandir)</b></summary>
+<br>
+Este proyecto se gestiona bajo estándares profesionales de documentación:
+<ul>
+<li><b>GitHub Pages:</b> Para la visualización del proyecto como sitio web.</li>
+<li><b>Markdown (GFM):</b> Para una estructuración clara y técnica de la información.</li>
+<li><b>Jekyll:</b> Motor de sitios estáticos para la gestión de layouts.</li>
+</ul>
 </details>
 
 <br>
