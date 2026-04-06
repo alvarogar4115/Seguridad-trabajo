@@ -2,12 +2,5 @@ title: "Seguridad y Prevención IT"
 baseurl: "/Seguridad-trabajo"
 url: "https://alvarogar4115.github.io"
 
-kramdown:
-  input: GFM
-  hard_wrap: false
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/
+include: [".htaccess"]
+markdown: kramdown
