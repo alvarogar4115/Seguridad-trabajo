@@ -24,7 +24,6 @@ El sitio web se organiza en dos ejes fundamentales para garantizar una navegaci�
 | `index.md` | Portada, Introducción y Objetivos | Sergio Martin |
 | `riesgos.md` | Análisis de riesgos físicos, visuales y tecnoestrés | Alvaro Garcia|
 | `prevencion.md` | Guía de ergonomía, pausas activas y medidas preventivas | Hugo Da Silva |
-| `referencias.md` | Bibliografía técnica y normativa legal (PRL) | Grupo |
 
 ---
 
