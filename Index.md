@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inicio
+---
+
 # 🛡️ Proyecto: Seguridad Laboral y Prevención en el Ámbito Informático
 > "La tecnología debe ser una herramienta de progreso, no una fuente de desgaste. Tu salud es el hardware más importante que posees."
 
