@@ -1,25 +1,13 @@
-# Configuración del Proyecto
 title: "Seguridad y Prevención IT"
-description: "Guía profesional sobre riesgos laborales y ergonomía en el sector tecnológico."
-
-# URL Y RUTAS (Crucial para el error 404)
-# Nota: No pongas barra al final de la baseurl
 baseurl: "/Seguridad-trabajo"
 url: "https://alvarogar4115.github.io"
 
-# CONFIGURACIÓN DE LECTURA
-markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-  syntax_highlighter: rouge
 
-# EXCLUSIONES
-# Evita que Jekyll intente procesar archivos innecesarios
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor/
-  - .jekyll-cache
-  - .jekyll-metadata
