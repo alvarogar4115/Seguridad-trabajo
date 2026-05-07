@@ -1,6 +1,0 @@
-title: "Seguridad y Prevención IT"
-baseurl: "/Seguridad-trabajo"
-url: "https://alvarogar4115.github.io"
-
-include: [".htaccess"]
-markdown: kramdown
